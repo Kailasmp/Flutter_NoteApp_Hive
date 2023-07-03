@@ -1,6 +1,6 @@
-# flutter_project_1
+# flutter_NoteApp_Project
 
-A new Flutter project.
+A new Flutter Sample project.
 
 ## Getting Started
 
