@@ -1,4 +1,4 @@
-# flutter_NoteApp_Project
+# flutter_NoteApp
 
 A new Flutter Sample project.
 
