@@ -1,8 +1,8 @@
 # Flutter_NoteApp
 
-A new Flutter Sample project.
+A new Flutter Sample project to Create Note as well as modify the task Using Hive Storage System.Also include the searchBar feature to access the Notes easily.And Dedicated Page for writing the Notes.   
 
-# This include SearchBar Feature
+THIS IS THE MAIN SCREEN
 <img src="https://github.com/Kailasmp/Flutter_NoteApp_Hive/assets/95521611/b47ee13c-714c-44ca-bc54-14e1a1fd3f58" width="200" height="390">
 
 <img src="https://github.com/Kailasmp/Flutter_NoteApp_Hive/assets/95521611/68088dd2-24cb-489c-b676-41bcc20d4153" width="200" height="390">
