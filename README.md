@@ -2,7 +2,7 @@
 
 A new Flutter Sample project.
 
-
+# This include SearchBar Feature
 <img src="https://github.com/Kailasmp/Flutter_NoteApp_Hive/assets/95521611/b47ee13c-714c-44ca-bc54-14e1a1fd3f58" width="200" height="390">
 
 <img src="https://github.com/Kailasmp/Flutter_NoteApp_Hive/assets/95521611/68088dd2-24cb-489c-b676-41bcc20d4153" width="200" height="390">
